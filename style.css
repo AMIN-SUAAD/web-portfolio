@@ -7,9 +7,25 @@ h1{
 .half-width{
     width: 40%;
     float: left;
-    margin-left: 6%;
+    margin-left: 7%;
     
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    padding: 8px 15px;
+    color: white;  
+}
+section{
+    height: 500px;
+    padding-bottom: 70px;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
